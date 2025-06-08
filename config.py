@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Основные настройки
-TOKEN = "7603557120:AAG_0lYTLV76s2ogSL9vq-2XcRS6tMFpjUw" # Токен бота
+TOKEN = "8004603718:AAGKEq9ZAm1e4IySRAUkaYsLiUNSF9MO0dQ" # Токен бота
 DB_PATH = os.getenv("DB_PATH", "data/database.db")  # Путь к базе данных, по умолчанию data/database.db
 
 # Настройки для реферальной системы
@@ -29,4 +29,4 @@ PAYMENT_CURRENCY = {
 api_secret = "blckjvodnlwekjvdvlfvkbskbsdlvbfkdvhdflvbdfjvbfv"
 BTCAddr = "1SxybDn1P64qqCb75vrgxQpj8zDFeSzDp"
 # Прочие настройки (если нужны дополнительные параметры)
-ADMIN_ID = 2025904026
+ADMIN_ID = 7398543448
